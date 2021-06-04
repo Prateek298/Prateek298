@@ -10,4 +10,5 @@ If anyone want to collaborate on any project/ideas, find me on:
 
 Email: prateeksingh298@gmail.com
 
+![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)]
 LinkedIn: https://www.linkedin.com/in/prateek-singh-a157bb1b5
