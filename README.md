@@ -8,8 +8,7 @@ Currently growing my knowledge in web development which struck me first in my jo
 
 If anyone want to collaborate on any project/ideas, find me on:
 
-![gmail](https://img.shields.io/badge/-000000?style=for-the-badge&logo=Gmail&logoColor=white)
-Email: prateeksingh298@gmail.com
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> prateeksingh298@gmail.com
 
-![linkedin](https://img.shields.io/badge/-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)
-LinkedIn: https://www.linkedin.com/in/prateek-singh-a157bb1b5
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> https://www.linkedin.com/in/prateek-singh-a157bb1b5
